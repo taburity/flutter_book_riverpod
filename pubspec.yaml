@@ -8,8 +8,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_localizations:
-    sdk: flutter
   sqflite: ^2.3.3
   path_provider: ^2.1.3
   flutter_slidable: ^4.0.0
